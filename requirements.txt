@@ -1,0 +1,20 @@
+## Libraries
+- gym V0.18.3
+- tensorflow V2.5.0
+- selenium V3.141.0
+- numpy V1.19.5
+- opencv-python v4.5.3.56
+- bs4 V0.0.1
+- chromedriver
+
+## PIP INSTALL
+```shell
+pip install gym
+pip install tensorflow
+pip install selenium
+pip install numpy
+pip install opencv-python
+pip install bs4
+```
+[Chrome Driver](https://chromedriver.chromium.org/downloads)
+
