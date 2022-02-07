@@ -1,6 +1,6 @@
 # AI T-Rex Runner
 
-Group 12
+Project for AIinFictionAndFact -- Group 12
 
 ![](.FILES/LOGO.png)
 
